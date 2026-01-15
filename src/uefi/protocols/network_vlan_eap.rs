@@ -1,0 +1,1 @@
+// https://uefi.org/specs/UEFI/2.11/27_Network_Protocols_VLAN_and_EAP.html

@@ -1,0 +1,1 @@
+// https://uefi.org/specs/UEFI/2.11/20_Protocols_ACPI_Protocols.html

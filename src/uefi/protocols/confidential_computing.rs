@@ -1,0 +1,1 @@
+// https://uefi.org/specs/UEFI/2.11/38_Confidential_Computing.html

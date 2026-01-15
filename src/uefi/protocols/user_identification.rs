@@ -1,0 +1,1 @@
+// https://uefi.org/specs/UEFI/2.11/36_User_Identification.html

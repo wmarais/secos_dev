@@ -1,0 +1,1 @@
+// https://uefi.org/specs/UEFI/2.11/23_Firmware_Update_and_Reporting.html

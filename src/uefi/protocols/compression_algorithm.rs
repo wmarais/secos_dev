@@ -1,0 +1,1 @@
+// https://uefi.org/specs/UEFI/2.11/19_Protocols_Compression_Algorithm_Specification.html

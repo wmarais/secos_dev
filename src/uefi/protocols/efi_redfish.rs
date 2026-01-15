@@ -1,0 +1,1 @@
+// https://uefi.org/specs/UEFI/2.11/31_EFI_Redfish_Service_Support.html

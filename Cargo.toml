@@ -1,0 +1,11 @@
+[package]
+name = "secos_dev"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+repository = "https://github.com/wmarais/secos_dev"
+readme = "README.md"
+
+[features]
+default = ["uefi"]
+uefi = []

@@ -1,0 +1,1 @@
+pub trait CharacterT: Sized + Copy + Clone {}
